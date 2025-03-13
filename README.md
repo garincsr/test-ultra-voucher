@@ -51,7 +51,7 @@ console.log(groupAnagrams(words));
 
 # 2. Query Test
 
-### Problem: Parent-Child Relationship Query
+### Problem: Self Join Table
 
 ```sql
 CREATE TABLE parent (
